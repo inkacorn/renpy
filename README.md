@@ -1,2 +1,3 @@
-# renpy
-Ren'py files that I coded/am coding
+# Ren'py Files
+
+Feel free to use the code in your Ren'py projects (with credits of course)
